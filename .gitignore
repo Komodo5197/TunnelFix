@@ -1,0 +1,55 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results and outputs
+[Dd]ebug/
+[Dd]ebugPS/
+[Rr]elease/
+[Rr]eleasePS/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Log]/
+[Logs]/
+
+## Visual Studio cache and hidden tracking folders
+.vs/
